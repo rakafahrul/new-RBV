@@ -9,7 +9,7 @@
             Login
         </h1>
         <p class="text-lg text-gray-600 mb-6">
-            Gunakan akun anda untuk masuk
+            Gunakan akun anda untuk masukk
         </p>
         
         <form class="space-y-4">
