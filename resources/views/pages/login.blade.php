@@ -9,7 +9,7 @@
             Login
         </h1>
         <p class="text-lg text-gray-600 mb-6">
-            Gunakan akun anda untuk masukk
+            Gunakan akun anda untuk masuk ke aplikasi kami dan nikmati berbagai fitur yang tersedia. Masukkan NIK dan password anda untuk memulai perjalanan digital anda bersama kami!
         </p>
         
         <form class="space-y-4">
